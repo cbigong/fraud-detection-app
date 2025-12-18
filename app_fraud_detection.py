@@ -28,7 +28,7 @@ model = load_model()
 dic_type ={"PAIEMENT" : "PAYMENT",
       "TRANSFERT" : "TRANSFER",
       "RETRAIT" : "CASH_OUT",
-      "DEPOT" : "DEPOSIT"}
+      "DEPOT" : "CASH_IN"}
 
 def create_advanced_features(df):
     """
