@@ -195,7 +195,7 @@ st.divider()
 st.markdown("""
     <div style='text-align: center; color: gray; padding: 2rem 0;'>
         <p>🔒 <strong>Application de Détection de Fraude Bancaire</strong></p>
-        <p>Développé avec Machine Learning | Random Forest + SMOTE</p>
+        <p>Développé avec Machine Learning | XGboost</p>
         <p style='font-size: 0.9em; margin-top: 1rem;'>
             Modèle entraîné sur 6.3M+ transactions | AUC-ROC: 95.4% | F1-Score: 85.2%
         </p>
